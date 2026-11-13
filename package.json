@@ -1,0 +1,33 @@
+{
+  "name": "dsh-mold",
+  "version": "0.1.0",
+  "description": "模具选型与成本粗估：塑料/压铸/冲压，腔数、钢材、价格与交期",
+  "type": "module",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "cordis.patch.yml",
+    "README.md"
+  ],
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "mold",
+    "模具",
+    "tooling",
+    "manufacturing"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moldkey/dsh-mold.git"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "engines": {
+    "dsh": ">=0.2.0-rc.2"
+  }
+}
