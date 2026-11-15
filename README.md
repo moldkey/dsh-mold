@@ -1,3 +1,4 @@
+[![DSHIO/T 10](https://dshio.org/badge/std.svg)](https://dshio.org/10/) [![deepseekbase](https://deepseekbase.com/badge/dsh-mold.svg)](https://deepseekbase.com/plugins/dsh-mold/)
 <p align="center"><strong>dsh-mold — 模具选型与成本</strong></p>
 
 按材料/产量/精度推荐模具类型与钢材，粗估价格和交期。
